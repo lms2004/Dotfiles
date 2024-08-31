@@ -1,0 +1,9 @@
+[user]
+	email = mxylms1210.com
+	name = llms26
+
+[alias]
+    graph = log --all --graph --decorate --oneline
+
+[core]
+	excludesfile = /Users/lms/.gitignore_global
